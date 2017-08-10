@@ -1,0 +1,11 @@
+*.svn-base
+*.class
+*.png
+*.jar
+
+target
+*.gif
+*.prefs
+*.component
+*.jpg
+*.bmp
